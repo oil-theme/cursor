@@ -1,0 +1,8 @@
+# files to be ignored
+.DS_Store
+*.vsix
+*.vsix
+.env
+
+# folders to be ignored
+node_modules

@@ -1,0 +1,59 @@
+{
+  "name": "oil",
+  "displayName": "Oil",
+  "description": "A visually appealing dark theme designed for clarity, created by Brody MacLean. It enhances the coding experience with a well-thought-out color palette.",
+  "version": "1.0.0",
+  "publisher": "Brody",
+  "author": {
+    "name": "Brody MacLean",
+    "email": "hello+oil@brody.com",
+    "url": "https://hello@brody.com"
+  },
+  "homepage": "https://github.com/brody/oil-visual-studio-code",
+  "icon": "assets/logo.webp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brody/oil-visual-studio-code"
+  },
+  "bugs": {
+    "url": "https://github.com/brody/oil-visual-studio-code/issues"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/brody"
+  },
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark",
+    "image": "assets/coverpage.webp"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "color theme",
+    "night theme",
+    "oil",
+    "oil theme",
+    "oil color theme",
+    "oil color theme vs code",
+    "oil color theme vscode",
+    "oil color theme vs code dark",
+    "oil color theme vscode dark",
+    "dark"
+  ],
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oil",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oil-visual-studio-code-color-theme.json"
+      }
+    ]
+  }
+}
