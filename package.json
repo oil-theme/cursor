@@ -1,9 +1,9 @@
 {
   "name": "oil",
   "displayName": "Oil",
-  "description": "A visually appealing dark theme designed for clarity, created by Brody MacLean. It enhances the coding experience with a well-thought-out color palette.",
-  "version": "1.0.0",
-  "publisher": "Brody",
+  "description": "A visually appealing dark theme designed for clarity, created by Brody MacLean. Enhancing the coding experience with a well-thought-out color palette.",
+  "version": "1.1.0",
+  "publisher": "BrodyMacLean",
   "author": {
     "name": "Brody MacLean",
     "email": "hello+oil@brody.com",
@@ -34,12 +34,20 @@
     "night theme",
     "oil",
     "oil theme",
+    "oil theme vs code",
+    "oil theme vscode",
+    "oil cursor",
+    "oil cursor theme",
+    "oil cursor theme dark",
     "oil color theme",
     "oil color theme vs code",
     "oil color theme vscode",
     "oil color theme vs code dark",
     "oil color theme vscode dark",
-    "dark"
+    "dark",
+    "productivity",
+    "minimal theme",
+    "modern theme"
   ],
   "engines": {
     "vscode": "^1.60.0"
@@ -52,7 +60,7 @@
       {
         "label": "Oil",
         "uiTheme": "vs-dark",
-        "path": "./themes/oil-visual-studio-code-color-theme.json"
+        "path": "./themes/oil-color-theme.json"
       }
     ]
   }

@@ -8,20 +8,20 @@
 </h1>
 
 <h3 align="center">
-    🟣 &nbsp;
+    ∙ &nbsp;
     <a href="https://github.com/brody/oil-visual-studio-code/issues">Report Bug</a> &nbsp;
-    🟣 &nbsp;
+    ∙ &nbsp;
     <a href="https://github.com/brody/oil-visual-studio-code/discussions">Discuss</a> &nbsp;
-    🟣 &nbsp;
+    ∙ &nbsp;
     <a href="https://github.com/brody/oil-visual-studio-code/issues">Request Feature</a> &nbsp;
-    🟣 &nbsp;
+    ∙ &nbsp;
 </h3>
 <h3 align="center">
-    🟣 &nbsp;
+    ∙ &nbsp;
     <a href="https://github.com/brody/oil-visual-studio-code/blob/main/CONTRIBUTING.md">Open Source</a> &nbsp;
-    🟣
+    ∙
 
 </h3>
 <br/>
 
-<img src="./assets/code-example-react.webp" alt="React example | Oil theme | Brody MacLean">
+<img src="./assets/code-example.webp" alt="React example | Oil theme | Brody MacLean">
