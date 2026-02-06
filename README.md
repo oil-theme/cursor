@@ -2,6 +2,10 @@
 
 # Oil for [Visual Studio Code](http://code.visualstudio.com)
 
+A visually appealing dark theme designed for clarity. Enhancing the coding experience with a well-thought-out color palette.
+
+<br>
+
 ![Screenshot](./assets/code-example.webp)
 
 ## Install using Command Palette
