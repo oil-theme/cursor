@@ -1,3 +1,9 @@
+<!--
+
+If you're fixing a UI issue, make sure you take two screenshots. One that shows the actual bug and another that shows how you fixed it.
+
+-->
+
 # Description
 
 Please describe in a short sentence or bullet points what changes you have made.
