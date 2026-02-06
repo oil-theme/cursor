@@ -2,21 +2,21 @@
   "name": "oil-theme",
   "displayName": "Oil theme",
   "description": "A visually appealing dark theme designed for clarity, created by Brody MacLean. Enhancing the coding experience with a well-thought-out color palette.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "BrodyMacLean",
   "author": {
     "name": "Brody MacLean",
     "email": "hello+oil@brody.com",
     "url": "https://brody.com"
   },
-  "homepage": "https://github.com/brody/oil-visual-studio-code",
+  "homepage": "https://github.com/oil-theme/visual-studio-code",
   "icon": "assets/logo.webp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/brody/oil-visual-studio-code"
+    "url": "https://github.com/oil-theme/visual-studio-code"
   },
   "bugs": {
-    "url": "https://github.com/brody/oil-visual-studio-code/issues"
+    "url": "https://github.com/oil-theme/visual-studio-code/issues"
   },
   "sponsor": {
     "url": "https://github.com/sponsors/brody"
