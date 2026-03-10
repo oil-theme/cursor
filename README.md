@@ -1,12 +1,15 @@
 <img src="./assets/logo.webp" alt="Oil theme logo | Brody MacLean" width="100">
 
-# Oil for [Visual Studio Code](http://code.visualstudio.com)
+# Oil for [Cursor](https://www.cursor.com)
 
 A visually appealing dark theme designed for clarity. Enhancing the coding experience with a well-thought-out color palette.
 
 <br>
 
 ![Screenshot](./assets/code-example.webp)
+
+> Cursor is a VSCode fork that supports VSCode extensions, including themes.
+> This theme is an independent port rather than a copy of our existing VSCode theme.
 
 ## Install using Command Palette
 
@@ -21,10 +24,10 @@ If you'd like to contribute to this theme, please read the [contributing guideli
 
 ## Links
 
-- [Report Bug](https://github.com/oil-theme/visual-studio-code/issues)
-- [Discuss](https://github.com/oil-theme/visual-studio-code/discussions)
-- [Request Feature](https://github.com/oil-theme/visual-studio-code/issues)
-- [Open Source](https://github.com/oil-theme/visual-studio-code/blob/main/.github/CONTRIBUTING.md)
+- [Report Bug](https://github.com/oil-theme/cursor/issues)
+- [Discuss](https://github.com/oil-theme/cursor/discussions)
+- [Request Feature](https://github.com/oil-theme/cursor/issues)
+- [Open Source](https://github.com/oil-theme/cursor/blob/main/.github/CONTRIBUTING.md)
 
 ## License
 

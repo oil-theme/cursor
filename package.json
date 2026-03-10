@@ -9,14 +9,14 @@
     "email": "hello+oil@brody.com",
     "url": "https://brody.com"
   },
-  "homepage": "https://github.com/oil-theme/visual-studio-code",
+  "homepage": "https://github.com/oil-theme/cursor",
   "icon": "assets/logo.webp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oil-theme/visual-studio-code"
+    "url": "https://github.com/oil-theme/cursor"
   },
   "bugs": {
-    "url": "https://github.com/oil-theme/visual-studio-code/issues"
+    "url": "https://github.com/oil-theme/cursor/issues"
   },
   "sponsor": {
     "url": "https://github.com/sponsors/brody"
